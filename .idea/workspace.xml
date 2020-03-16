@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a36eb2f-f670-401d-8e0a-78876923ba21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZCEGOuWnG6525gigRmEZO1rYoT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SEMESTER 6/Jaringan Syaraf Tiruan/tugas 2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="heem" type="PythonConfigurationType" factoryName="Python">
+      <module name="mboh, pengen ngoding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adaline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a36eb2f-f670-401d-8e0a-78876923ba21" name="Default Changelist" comment="" />
+      <created>1584334578295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584334578295</updated>
+      <workItem from="1584334583619" duration="5012000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584334947637">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1366.743@0.25.1366.743" timestamp="1584334947637" />
+    <state x="466" y="143" width="424" height="503" key="FileChooserDialogImpl" timestamp="1584335093040">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="466" y="143" width="424" height="503" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1584335093040" />
+    <state width="1326" height="237" key="GridCell.Tab.0.bottom" timestamp="1584344223759">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1326" height="237" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1584344223759" />
+    <state width="1326" height="237" key="GridCell.Tab.0.center" timestamp="1584344223757">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1326" height="237" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1584344223757" />
+    <state width="1326" height="237" key="GridCell.Tab.0.left" timestamp="1584344223756">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1326" height="237" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1584344223756" />
+    <state width="1326" height="237" key="GridCell.Tab.0.right" timestamp="1584344223758">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1326" height="237" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1584344223758" />
+    <state x="194" y="31" key="SettingsEditor" timestamp="1584334859907">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="194" y="31" key="SettingsEditor/0.25.1366.743@0.25.1366.743" timestamp="1584334859907" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mboh__pengen_ngoding$heem.coverage" NAME="heem Coverage Results" MODIFIED="1584344200471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
