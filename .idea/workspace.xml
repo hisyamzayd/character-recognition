@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a36eb2f-f670-401d-8e0a-78876923ba21" name="Default Changelist" comment="" />
+    <list default="true" id="2a36eb2f-f670-401d-8e0a-78876923ba21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZCEGOuWnG6525gigRmEZO1rYoT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -59,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584334578295</updated>
-      <workItem from="1584334583619" duration="5012000" />
+      <workItem from="1584334583619" duration="6429000" />
     </task>
     <servers />
   </component>
@@ -75,28 +81,28 @@
       <screen x="0" y="25" width="1366" height="743" />
     </state>
     <state x="466" y="143" width="424" height="503" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1584335093040" />
-    <state width="1326" height="237" key="GridCell.Tab.0.bottom" timestamp="1584344223759">
+    <state width="1326" height="237" key="GridCell.Tab.0.bottom" timestamp="1584345471695">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1326" height="237" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1584344223759" />
-    <state width="1326" height="237" key="GridCell.Tab.0.center" timestamp="1584344223757">
+    <state width="1326" height="237" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1584345471695" />
+    <state width="1326" height="237" key="GridCell.Tab.0.center" timestamp="1584345471694">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1326" height="237" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1584344223757" />
-    <state width="1326" height="237" key="GridCell.Tab.0.left" timestamp="1584344223756">
+    <state width="1326" height="237" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1584345471694" />
+    <state width="1326" height="237" key="GridCell.Tab.0.left" timestamp="1584345471694">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1326" height="237" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1584344223756" />
-    <state width="1326" height="237" key="GridCell.Tab.0.right" timestamp="1584344223758">
+    <state width="1326" height="237" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1584345471694" />
+    <state width="1326" height="237" key="GridCell.Tab.0.right" timestamp="1584345471695">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1326" height="237" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1584344223758" />
+    <state width="1326" height="237" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1584345471695" />
     <state x="194" y="31" key="SettingsEditor" timestamp="1584334859907">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
     <state x="194" y="31" key="SettingsEditor/0.25.1366.743@0.25.1366.743" timestamp="1584334859907" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/mboh__pengen_ngoding$heem.coverage" NAME="heem Coverage Results" MODIFIED="1584344200471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mboh__pengen_ngoding$heem.coverage" NAME="heem Coverage Results" MODIFIED="1584344894141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
