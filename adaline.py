@@ -81,12 +81,12 @@ def testing_process(new_w, new_b, x_test, t_test) :
 # init variable
 alpha = 0.1
 threshold = 0.1
-x1x2_for_train = [[1,1], [1,-1], [-1,1], [-1,-1]] #logika AND
-target_for_train = [1, -1, -1, -1]
-weight = [0.1, 0.2]
-# x1x2_for_train = get_data('data_train/o1.txt', 'data_train/o2.txt', 'data_train/o3.txt', 'data_train/o4.txt', 'data_train/x1.txt', 'data_train/x2.txt', 'data_train/x3.txt', 'data_train/x4.txt')
-# target_for_train = [1, 1, 1, 1, -1, -1, -1, -1]
-# weight = [round(random.uniform(0.0, 1.0), 1) for i in x1x2_for_train[0]]
+# x1x2_for_train = [[1,1], [1,-1], [-1,1], [-1,-1]] #logika AND
+# target_for_train = [1, -1, -1, -1]
+# weight = [0.1, 0.2]
+x1x2_for_train = get_data('data_train/o1.txt', 'data_train/o2.txt', 'data_train/o3.txt', 'data_train/o4.txt', 'data_train/x1.txt', 'data_train/x2.txt', 'data_train/x3.txt', 'data_train/x4.txt')
+target_for_train = [1, 1, 1, 1, -1, -1, -1, -1]
+weight = [round(random.uniform(0.0, 1.0), 1) for i in x1x2_for_train[0]]
 bias = 0.5
 print('old weight')
 print(weight)
@@ -97,10 +97,10 @@ print('new weight, and bias')
 print(new_weight, new_bias, '\n')
 
 # x and target value for testing
-x1x2_for_test = [[1,-1], [1,1], [-1,-1], [-1,1]] #logika AND
-target_for_test = [-1, 1, -1, -1]
-# x1x2_for_test = get_data('data_test/o.txt', 'data_test/x.txt')
-# target_for_test = [1, -1]
+# x1x2_for_test = [[1,-1], [1,1], [-1,-1], [-1,1]] #logika AND
+# target_for_test = [-1, 1, -1, -1]
+x1x2_for_test = get_data('data_test/o.txt', 'data_test/x.txt')
+target_for_test = [1, -1]
 
 print('expected target, target result, and the boolean')
 print(testing_process(new_weight, new_bias, x1x2_for_test, target_for_test))

@@ -1,9 +1,23 @@
 # data train
-data = [[1,1], [1,-1], [-1,1], [-1,-1]] #logika and
-target = [1, -1, -1, -1]
+# data = [[1,1], [1,-1], [-1,1], [-1,-1]] #logika and
+# target = [1, -1, -1, -1]
+def get_data(*filename) :
+    data = []
+    for i in filename :
+        file = open(i, 'r').read()
+        each = []
+        for j in file :
+            if j == '.' :
+                each.append(-1)
+            elif j == '#' :
+                each.append(1)
+        data.append(each)
+    return data
+data = get_data('data_train/o1.txt', 'data_train/o2.txt', 'data_train/o3.txt', 'data_train/o4.txt', 'data_train/x1.txt', 'data_train/x2.txt', 'data_train/x3.txt', 'data_train/x4.txt')
+target = [1, 1, 1, 1, -1, -1, -1, -1]
 
 # weight and bias
-weight = [0, 0]
+weight = [0 for i in data[0]]
 bias = 0
 
 # hebb learning cukup 1 epoch
@@ -42,8 +56,10 @@ def testing_hebb(d_test, t_test, new_w, new_b) :
 new_w, new_b = learning_hebb(data, target, weight, bias)
 
 # data testing
-data_test = [[-1,-1], [1,-1], [-1,1], [1,1]] #logika and
-target_test = [-1, -1, -1, 1]
+# data_test = [[-1,-1], [1,-1], [-1,1], [1,1]] #logika and
+# target_test = [-1, -1, -1, 1]
+data_test = get_data('data_test/o.txt', 'data_test/x.txt')
+target_test = [1, -1]
 
 # do the testing
 expec_result, real_result, boolean = testing_hebb(data_test, target_test, new_w, new_b)
